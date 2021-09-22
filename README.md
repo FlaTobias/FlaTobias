@@ -3,9 +3,9 @@
 - 😊 Estudando HTML, CSS, JS
  
  ##
-
+<div>
 <a href=“https://meuqueridopet.netlify.app/“>Site do Desafio Gama XP39</a>
-
+</div>
 <div>
 
   <a href="https://github.com/FlaTobias">
