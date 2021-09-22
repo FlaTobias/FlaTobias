@@ -4,7 +4,7 @@
  
  ##
 <div>
-<a href=“https://meuqueridopet.netlify.app/“>Site do Desafio Gama XP39</a>
+<a href="https://meuqueridopet.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/SIte-Meu%20Querido%20Pet-blue"></a>
 </div>
 <div>
 
